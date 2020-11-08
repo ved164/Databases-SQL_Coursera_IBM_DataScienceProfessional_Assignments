@@ -1,5 +1,4 @@
 # Databases-SQL_Coursera_IBM_DataScienceProfessional_Assignments
-Practice_SQL 
 
 
 Task 0: Drop the table INSTRUCTOR from the database in case it already exists, so that we start from a clean state.
